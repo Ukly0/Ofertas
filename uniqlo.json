@@ -1,0 +1,43 @@
+{
+    "store": "UNIQLO",
+    "product_name": "Parka plumas sin costuras",
+    "price": 0.0,
+    "variants": [
+        {
+            "color_name": "VERDE OLIVA",
+            "color_code": "57",
+            "sizes": [
+                {
+                    "size": "XS",
+                    "available": true
+                },
+                {
+                    "size": "S",
+                    "available": true
+                },
+                {
+                    "size": "M",
+                    "available": true
+                },
+                {
+                    "size": "L",
+                    "available": true
+                },
+                {
+                    "size": "XL",
+                    "available": true
+                },
+                {
+                    "size": "XXL",
+                    "available": true
+                },
+                {
+                    "size": "3XL",
+                    "available": false
+                }
+            ],
+            "image_url": null
+        }
+    ],
+    "url": "https://www.uniqlo.com/es/es/products/E470077-000/00?colorDisplayCode=57&sizeDisplayCode=004"
+}
